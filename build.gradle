@@ -19,7 +19,7 @@ repositories {
 }
 
 ext {
-    versionLombok = '1.18.30'
+    versionLombok = '1.18.34'
     versionMapstruct = '1.5.5.Final'
     versionLombokMapstructBinding = '0.2.0'
     versionCucumber = '7.18.0'
